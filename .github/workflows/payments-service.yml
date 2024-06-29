@@ -1,4 +1,4 @@
-name: orders-pipeline
+name: payments-pipeline
 
 on:
   push:
